@@ -1,8 +1,9 @@
 # mongoDB
 
-Here, I am performing basic operarions in MongoDB using pymongo and pandas libraries (task_mongo_stu.py)
-–and perform CRUD operations to manipulate data in MongoDB:
-–Create, retrieve, update, and delete (CRUD) in telephone directory (task_mongo_crud.py)
+Here, 
+1)  I am performing basic operarions in MongoDB using pymongo and pandas libraries (task_mongo_stu.py).
+
+2)–and perform CRUD operations to manipulate data in MongoDB: Create, retrieve, update, and delete (CRUD) in telephone directory (task_mongo_crud.py).
 
 Loaded the student.json dataset and create a database.
 After that, insert the students record into the collection.
