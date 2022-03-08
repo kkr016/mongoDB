@@ -1,12 +1,15 @@
 # mongoDB
 
 Here, 
-1)  I am performing basic operarions in MongoDB using pymongo and pandas libraries (task_mongo_stu.py).
+I am performing CRUD operations to manipulate data in MongoDB:
 
-2)–and perform CRUD operations to manipulate data in MongoDB: Create, retrieve, update, and delete (CRUD) in telephone directory (task_mongo_crud.py).
+    –Create, retrieve, update, and delete (CRUD) in telephone directory (task_mongo_crud.py).
+ 
+and perform the following operation in MongoDB using pymongo and pandas libraries (task_mongo_stu.py).
 
-Loaded the student.json dataset and create a database.
-After that, insert the students record into the collection.
+  –Loaded the student.json dataset and create a database.
+
+  –After that, insert the students record into the collection.
 
 Queries need to answer:
 1)      Find the student name who scored maximum scores in all (exam, quiz and homework)?
